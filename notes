@@ -1,0 +1,9 @@
+Making flex look vertical in bootstrap - "flex-column"
+For ease of access,the title and paragragh can be added immediately under the image in the post.html not using the col and row div tag.
+&nbsp;  - This tag is used to give space in a paragraph's beginning or the beginning of a word,After a word and in a word it means (None breaking space.)
+&cent;  - For cent sign
+&yen;   - For yen sign
+&pound; - For pound sign
+&euro;  - For euro sign
+&copy;  - For copyright sign
+&reg;   - For registered trademark
